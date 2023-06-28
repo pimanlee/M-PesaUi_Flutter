@@ -1,10 +1,10 @@
 # mpesaclone
 
-I was Playing with Flutter for First Time then I tried this M-Pesa UI
-Its Just Home Screen
+I was playing with Flutter for the First Time then I hv tried this simple M-Pesa UI
+It's Just Home Screen 😊
 
-//On Next Days I will Improve UI and I Use Original from M-Pesa App
+//Once I get some time I will add more features with Bloc or Provider
 
-This code is just for begginers like me Download it and Check it
+This code is just for beginners like me Download it and Check it
 
 Tuko Pamoja😊
